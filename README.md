@@ -137,4 +137,4 @@ There is executable file in my repo.
 
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
 
-**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/vladmeer67)
+**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/vladmeer67) or Twitter: [@Vladmeer](https://x.com/vladmeer67)
