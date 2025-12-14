@@ -126,15 +126,13 @@ Version 2 features the fastest trade detection method with near-instantaneous tr
 
 <img width="680" height="313" alt="image (19)" src="https://github.com/user-attachments/assets/d868f9f2-a1dd-4bfe-a76e-d8cbdfbd8497" />
 
-## Monitoring tool
+## Trading tool
 
-I've also developed a monitoring bot for Polymarket built with **Rust** - it's a useful tool for tracking and analyzing market activity.
+I've also developed a trading bot for Polymarket built with **Rust**.
 
-<img width="1674" height="937" alt="image (20)" src="https://github.com/user-attachments/assets/99d1301a-9426-45af-973d-f647434c704a" />
-
-Demo: https://www.youtube.com/watch?v=qgdRd8X-oHM <br />
-There is executable file in my repo.
+<img width="1917" height="942" alt="image (21)" src="https://github.com/user-attachments/assets/08a5c962-7f8b-4097-98b6-7a457daa37c9" />
+https://www.youtube.com/watch?v=4f6jHT4-DQs
 
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
 
-**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/vladmeer67)
+**Support:** For questions or issues, contact via Telegram: [@Vladmeer](https://t.me/vladmeer67) | Twitter: [@Vladmeer](https://x.com/vladmeer67)
